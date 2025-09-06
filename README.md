@@ -1,8 +1,9 @@
 # angular-20-test
 
-- This simple test project which will, when complete, demonstrate the use of
+This _work-in-progress_ project will demonstrate the use of
+
 - Angular 20
-- Mock Service Worker back-end
+- Mock Service Worker (back-end)
 - Nx
 - NgRx
 - ViTest
@@ -10,18 +11,12 @@
 - Storybook
 - SASS (SCSS)
 
-## Run tasks
+## Running the dev server locally:
 
-To run the dev server for your app, use:
+To run the dev server use:
 
 ```sh
 npx nx serve test-app
-```
-
-To create a production bundle:
-
-```sh
-npx nx build test-app
 ```
 
 To see all available targets to run for a project, run:
